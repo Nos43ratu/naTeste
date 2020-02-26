@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nateste/static/css/main.d43c8367.chunk.css",
+    "main.js": "/nateste/static/js/main.2af331a7.chunk.js",
+    "main.js.map": "/nateste/static/js/main.2af331a7.chunk.js.map",
+    "runtime-main.js": "/nateste/static/js/runtime-main.a217f3c4.js",
+    "runtime-main.js.map": "/nateste/static/js/runtime-main.a217f3c4.js.map",
+    "static/js/2.80f0af5a.chunk.js": "/nateste/static/js/2.80f0af5a.chunk.js",
+    "static/js/2.80f0af5a.chunk.js.map": "/nateste/static/js/2.80f0af5a.chunk.js.map",
+    "index.html": "/nateste/index.html",
+    "precache-manifest.0a335240f8ace3bb81440e539ece2fc5.js": "/nateste/precache-manifest.0a335240f8ace3bb81440e539ece2fc5.js",
+    "service-worker.js": "/nateste/service-worker.js",
+    "static/css/main.d43c8367.chunk.css.map": "/nateste/static/css/main.d43c8367.chunk.css.map",
+    "static/js/2.80f0af5a.chunk.js.LICENSE.txt": "/nateste/static/js/2.80f0af5a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nateste/static/media/Snimok_ekrana_2020-01-07_v_17_00_45.da7dd7c0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a217f3c4.js",
+    "static/js/2.80f0af5a.chunk.js",
+    "static/css/main.d43c8367.chunk.css",
+    "static/js/main.2af331a7.chunk.js"
+  ]
+}
