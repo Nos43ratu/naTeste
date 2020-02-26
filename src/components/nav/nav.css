@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1;
+  height: 100vh;
+  box-shadow: 0 10px 100px rgba(0, 0, 0, 0.5);
+}
+.logo {
+  background-image: url(./Snimok_ekrana_2020-01-07_v_17_00_45.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100px;
+}
